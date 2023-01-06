@@ -36,5 +36,5 @@ repository를 clone하고 owner와 customer를 unity에서 따로 실행시킨�
 
 ## Reference
 [유니티 C# TCP 소켓통신으로 채팅하기](https://www.youtube.com/watch?v=y3FU6d_BpjI)  
-[유니티 AR Foundation 강좌 - Image Tracking + 소스코드](https://blog.naver.com/progagmer/222247604964)
+[유니티 AR Foundation 강좌 - Image Tracking + 소스코드](https://blog.naver.com/progagmer/222247604964)  
 [앱 튕김 현상 해결](https://gigglehd.com/gg/soft/10829084)
