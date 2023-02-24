@@ -8,7 +8,7 @@
 <p align="center"><img width='70%' src="https://user-images.githubusercontent.com/65859079/210742574-a701fa84-dab1-4f01-9ec3-96f266c39311.png"/>
 <img width='70%' src="https://user-images.githubusercontent.com/65859079/210742666-df84090c-b9bd-44b8-85d6-4c9982bdb8ba.png"/></p>
 
-## Funtion, Implementation
+## Function, Implementation
 - Unity의 AR Foundation에서 제공하는 AR Tracked Image Manager와 Reference Image Library를 사용   
 - C#으로 작성한 TCP 소켓통신을 이용  
 ### [ AR contents product viewer ] 
